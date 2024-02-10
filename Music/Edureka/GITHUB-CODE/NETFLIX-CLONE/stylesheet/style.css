@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* -------------BACKGROUNF IMAGE------- */
+.bg-img{
+    height: 600px;
+    border-bottom: 8px solid #222;
+    background-image: linear-gradient(to top, rgba(10, 10, 10, 0.7),rgba(10, 10, 10, 0.7)), url('https://assets.nflxext.com/ffe/siteui/vlv3/c0a32732-b033-43b3-be2a-8fee037a6146/2fe6e3c0-5613-4625-a0c1-3d605effd10b/IN-en-20210607-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+}
+
+/*---------------MAIN CONTENT-------------*/
+.unlimited{
+    padding-top: 40px;
+    font-weight: 700;
+    font-size: 46px;
+}
+
+.value{
+    background-color: darkred;
+    
+
+}
+.button-btn{
+    background-color: darkred;
+    font-size: large;
+    border-radius: 10%;
+    color: aliceblue;
+}
+
+.anywhere{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.button-btn:hover{
+    color: black;
+}
+
+.email :hover{
+    border-radius: 50%;
+}
+
+.custom-select{
+    border-radius: 11%;
+}
+
+
+
+/*-----------FIRST VIDEO------SECTION-----*/
+.bg-black{
+    background-color: black;
+    height: 450px;
+}
+
+.first-enjoy{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.paragraph{
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.horizon{
+    display: block;
+    margin-top: 0;
+    margin-bottom:0;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: -1px;
+    background-color: #131345;
+}
+
+.cover-black{
+    background-color: black;
+    height: 456px;
+    padding-top: 2px;
+}
+
+.watc{
+    font-weight: 600;
+    font-size: 40px;
+    padding-top: 30px-;
+}
